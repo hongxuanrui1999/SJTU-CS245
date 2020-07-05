@@ -1,0 +1,17 @@
+_ITML_euclidean: k = 2, acc = 0.820417
+_ITML_euclidean: k = 3, acc = 0.835957
+_ITML_euclidean: k = 4, acc = 0.833144
+_ITML_euclidean: k = 5, acc = 0.835153
+_ITML_euclidean: k = 6, acc = 0.833278
+_ITML_euclidean: k = 7, acc = 0.833679
+_ITML_euclidean: k = 8, acc = 0.830196
+_ITML_euclidean: k = 9, acc = 0.829727
+_ITML_euclidean: k = 10, acc = 0.827249
+_ITML_euclidean: k = 11, acc = 0.827316
+_ITML_euclidean: k = 12, acc = 0.825239
+_ITML_euclidean: k = 13, acc = 0.824704
+_ITML_euclidean: k = 14, acc = 0.823297
+_ITML_euclidean: k = 15, acc = 0.820953
+_ITML_euclidean: k = 16, acc = 0.819613
+_ITML_euclidean: Best k = 3
+_ITML_euclidean: Best acc = 0.835957

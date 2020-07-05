@@ -1,0 +1,3 @@
+Art->RealWorld with acc=0.748451 (C=10.0, kernel=rbf)
+Clipart->RealWorld with acc=0.657792 (C=0.01, kernel=linear)
+Product->RealWorld with acc=0.729401 (C=10.0, kernel=rbf)

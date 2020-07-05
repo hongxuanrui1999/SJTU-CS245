@@ -1,0 +1,9 @@
+rbf: n_comp = 2.000000, acc = 0.231965
+rbf: n_comp = 3.000000, acc = 0.262107
+rbf: n_comp = 50.000000, acc = 0.809096
+rbf: n_comp = 100.000000, acc = 0.871793
+rbf: n_comp = 500.000000, acc = 0.886195
+rbf: n_comp = 1000.000000, acc = 0.884855
+rbf: n_comp = 2000.000000, acc = 0.884855
+rbf: Best n_comp = 500.000000
+rbf: acc = 0.886195

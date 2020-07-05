@@ -1,0 +1,21 @@
+500_poly_chebyshev: k = 2, acc = 0.697970
+500_poly_chebyshev: k = 3, acc = 0.719003
+500_poly_chebyshev: k = 4, acc = 0.724563
+500_poly_chebyshev: k = 5, acc = 0.726907
+500_poly_chebyshev: k = 6, acc = 0.728716
+500_poly_chebyshev: k = 7, acc = 0.727108
+500_poly_chebyshev: k = 8, acc = 0.725501
+500_poly_chebyshev: k = 10, acc = 0.721549
+500_poly_chebyshev: k = 11, acc = 0.719673
+500_poly_chebyshev: k = 12, acc = 0.717396
+500_poly_chebyshev: k = 13, acc = 0.716123
+500_poly_chebyshev: k = 14, acc = 0.714515
+500_poly_chebyshev: k = 15, acc = 0.712573
+500_poly_chebyshev: k = 16, acc = 0.712841
+500_poly_chebyshev: k = 50, acc = 0.660794
+500_poly_chebyshev: k = 100, acc = 0.614040
+500_poly_chebyshev: k = 200, acc = 0.556970
+500_poly_chebyshev: k = 500, acc = 0.467948
+500_poly_chebyshev: k = 1000, acc = 0.391319
+500_poly_chebyshev: Best k = 6
+500_poly_chebyshev: Best acc = 0.728716

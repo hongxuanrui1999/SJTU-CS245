@@ -1,0 +1,17 @@
+_RCA_euclidean: k = 2, acc = 0.878826
+_RCA_euclidean: k = 3, acc = 0.893630
+_RCA_euclidean: k = 4, acc = 0.894300
+_RCA_euclidean: k = 5, acc = 0.899859
+_RCA_euclidean: k = 6, acc = 0.900596
+_RCA_euclidean: k = 7, acc = 0.903142
+_RCA_euclidean: k = 8, acc = 0.902405
+_RCA_euclidean: k = 9, acc = 0.904079
+_RCA_euclidean: k = 10, acc = 0.903476
+_RCA_euclidean: k = 11, acc = 0.904548
+_RCA_euclidean: k = 12, acc = 0.904682
+_RCA_euclidean: k = 13, acc = 0.904883
+_RCA_euclidean: k = 14, acc = 0.904682
+_RCA_euclidean: k = 15, acc = 0.904682
+_RCA_euclidean: k = 16, acc = 0.904816
+_RCA_euclidean: Best k = 13
+_RCA_euclidean: Best acc = 0.904883

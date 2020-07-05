@@ -1,0 +1,21 @@
+50_linear_chebyshev: k = 2, acc = 0.770045
+50_linear_chebyshev: k = 3, acc = 0.795432
+50_linear_chebyshev: k = 4, acc = 0.804006
+50_linear_chebyshev: k = 5, acc = 0.808828
+50_linear_chebyshev: k = 6, acc = 0.808962
+50_linear_chebyshev: k = 7, acc = 0.812379
+50_linear_chebyshev: k = 8, acc = 0.810704
+50_linear_chebyshev: k = 10, acc = 0.812379
+50_linear_chebyshev: k = 11, acc = 0.812914
+50_linear_chebyshev: k = 12, acc = 0.810570
+50_linear_chebyshev: k = 13, acc = 0.811307
+50_linear_chebyshev: k = 14, acc = 0.809498
+50_linear_chebyshev: k = 15, acc = 0.809699
+50_linear_chebyshev: k = 16, acc = 0.809900
+50_linear_chebyshev: k = 50, acc = 0.789202
+50_linear_chebyshev: k = 100, acc = 0.762476
+50_linear_chebyshev: k = 200, acc = 0.727175
+50_linear_chebyshev: k = 500, acc = 0.670842
+50_linear_chebyshev: k = 1000, acc = 0.607341
+50_linear_chebyshev: Best k = 11
+50_linear_chebyshev: Best acc = 0.812914

@@ -1,0 +1,13 @@
+50_sigmoid_cosine1: k = 2, acc = 0.834014
+50_sigmoid_cosine1: k = 3, acc = 0.862616
+50_sigmoid_cosine1: k = 4, acc = 0.865162
+50_sigmoid_cosine1: k = 5, acc = 0.871056
+50_sigmoid_cosine1: k = 6, acc = 0.872731
+50_sigmoid_cosine1: k = 7, acc = 0.875209
+50_sigmoid_cosine1: k = 8, acc = 0.875477
+50_sigmoid_cosine1: k = 9, acc = 0.878023
+50_sigmoid_cosine1: k = 10, acc = 0.876750
+50_sigmoid_cosine1: k = 11, acc = 0.877688
+50_sigmoid_cosine1: k = 12, acc = 0.876415
+50_sigmoid_cosine1: Best k = 9
+50_sigmoid_cosine1: Best acc = 0.878023

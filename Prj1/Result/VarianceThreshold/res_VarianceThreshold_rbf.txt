@@ -1,0 +1,9 @@
+rbf: n_comp = 0.100000, acc = 0.922433, dimension = 1883
+rbf: n_comp = 0.200000, acc = 0.927524, dimension = 1345
+rbf: n_comp = 0.300000, acc = 0.930873, dimension = 1022
+rbf: n_comp = 0.500000, acc = 0.929868, dimension = 620
+rbf: n_comp = 0.700000, acc = 0.927390, dimension = 401
+rbf: n_comp = 0.900000, acc = 0.923036, dimension = 271
+rbf: Best n_comp = 0.300000
+rbf: acc = 0.930873
+rbf: dimension = 1022.000000

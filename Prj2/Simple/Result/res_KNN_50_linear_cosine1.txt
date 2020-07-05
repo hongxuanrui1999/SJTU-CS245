@@ -1,0 +1,13 @@
+50_linear_cosine1: k = 2, acc = 0.844866
+50_linear_cosine1: k = 3, acc = 0.868980
+50_linear_cosine1: k = 4, acc = 0.870721
+50_linear_cosine1: k = 5, acc = 0.876884
+50_linear_cosine1: k = 6, acc = 0.876884
+50_linear_cosine1: k = 7, acc = 0.882511
+50_linear_cosine1: k = 8, acc = 0.879362
+50_linear_cosine1: k = 9, acc = 0.881305
+50_linear_cosine1: k = 10, acc = 0.880702
+50_linear_cosine1: k = 11, acc = 0.880300
+50_linear_cosine1: k = 12, acc = 0.880903
+50_linear_cosine1: Best k = 7
+50_linear_cosine1: Best acc = 0.882511

@@ -1,0 +1,3 @@
+2048_euclidean_9: k = 9, acc = 0.875410
+2048_euclidean_9: Best k = 9
+2048_euclidean_9: Best acc = 0.875410

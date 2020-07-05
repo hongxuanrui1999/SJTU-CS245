@@ -1,0 +1,17 @@
+_LFDA_euclidean: k = 2, acc = 0.881841
+_LFDA_euclidean: k = 3, acc = 0.899524
+_LFDA_euclidean: k = 4, acc = 0.899390
+_LFDA_euclidean: k = 5, acc = 0.903811
+_LFDA_euclidean: k = 6, acc = 0.902874
+_LFDA_euclidean: k = 7, acc = 0.904280
+_LFDA_euclidean: k = 8, acc = 0.905352
+_LFDA_euclidean: k = 9, acc = 0.906156
+_LFDA_euclidean: k = 10, acc = 0.905486
+_LFDA_euclidean: k = 11, acc = 0.906290
+_LFDA_euclidean: k = 12, acc = 0.906826
+_LFDA_euclidean: k = 13, acc = 0.907094
+_LFDA_euclidean: k = 14, acc = 0.906759
+_LFDA_euclidean: k = 15, acc = 0.907562
+_LFDA_euclidean: k = 16, acc = 0.907562
+_LFDA_euclidean: Best k = 15
+_LFDA_euclidean: Best acc = 0.907562

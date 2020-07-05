@@ -1,0 +1,21 @@
+50_sigmoid_manhattan: k = 2, acc = 0.820417
+50_sigmoid_manhattan: k = 3, acc = 0.846473
+50_sigmoid_manhattan: k = 4, acc = 0.848885
+50_sigmoid_manhattan: k = 5, acc = 0.856856
+50_sigmoid_manhattan: k = 6, acc = 0.855516
+50_sigmoid_manhattan: k = 7, acc = 0.857861
+50_sigmoid_manhattan: k = 8, acc = 0.856521
+50_sigmoid_manhattan: k = 10, acc = 0.857660
+50_sigmoid_manhattan: k = 11, acc = 0.857258
+50_sigmoid_manhattan: k = 12, acc = 0.855985
+50_sigmoid_manhattan: k = 13, acc = 0.856119
+50_sigmoid_manhattan: k = 14, acc = 0.856119
+50_sigmoid_manhattan: k = 15, acc = 0.855650
+50_sigmoid_manhattan: k = 16, acc = 0.853440
+50_sigmoid_manhattan: k = 50, acc = 0.833411
+50_sigmoid_manhattan: k = 100, acc = 0.813249
+50_sigmoid_manhattan: k = 200, acc = 0.782571
+50_sigmoid_manhattan: k = 500, acc = 0.730859
+50_sigmoid_manhattan: k = 1000, acc = 0.674057
+50_sigmoid_manhattan: Best k = 7
+50_sigmoid_manhattan: Best acc = 0.857861

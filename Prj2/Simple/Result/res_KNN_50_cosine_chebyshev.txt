@@ -1,0 +1,21 @@
+50_cosine_chebyshev: k = 2, acc = 0.777480
+50_cosine_chebyshev: k = 3, acc = 0.813383
+50_cosine_chebyshev: k = 4, acc = 0.822761
+50_cosine_chebyshev: k = 5, acc = 0.833211
+50_cosine_chebyshev: k = 6, acc = 0.836694
+50_cosine_chebyshev: k = 7, acc = 0.839909
+50_cosine_chebyshev: k = 8, acc = 0.840646
+50_cosine_chebyshev: k = 10, acc = 0.846607
+50_cosine_chebyshev: k = 11, acc = 0.845000
+50_cosine_chebyshev: k = 12, acc = 0.844933
+50_cosine_chebyshev: k = 13, acc = 0.846540
+50_cosine_chebyshev: k = 14, acc = 0.846674
+50_cosine_chebyshev: k = 15, acc = 0.846071
+50_cosine_chebyshev: k = 16, acc = 0.845469
+50_cosine_chebyshev: k = 50, acc = 0.841985
+50_cosine_chebyshev: k = 100, acc = 0.830866
+50_cosine_chebyshev: k = 200, acc = 0.819881
+50_cosine_chebyshev: k = 500, acc = 0.791882
+50_cosine_chebyshev: k = 1000, acc = 0.763280
+50_cosine_chebyshev: Best k = 14
+50_cosine_chebyshev: Best acc = 0.846674

@@ -1,0 +1,15 @@
+linear: n_comp = 2.000000, acc = 0.124590
+linear: n_comp = 5.000000, acc = 0.403175
+linear: n_comp = 10.000000, acc = 0.689865
+linear: n_comp = 20.000000, acc = 0.822694
+linear: n_comp = 50.000000, acc = 0.893161
+linear: n_comp = 100.000000, acc = 0.913725
+linear: n_comp = 200.000000, acc = 0.922031
+linear: n_comp = 500.000000, acc = 0.921428
+linear: n_comp = 750.000000, acc = 0.919017
+linear: n_comp = 1000.000000, acc = 0.917074
+linear: n_comp = 1200.000000, acc = 0.917811
+linear: n_comp = 1500.000000, acc = 0.915734
+linear: n_comp = 2000.000000, acc = 0.916404
+linear: Best n_comp = 200.000000
+linear: acc = 0.922031

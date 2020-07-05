@@ -1,0 +1,21 @@
+50_sigmoid_chebyshev: k = 2, acc = 0.737893
+50_sigmoid_chebyshev: k = 3, acc = 0.769710
+50_sigmoid_chebyshev: k = 4, acc = 0.777413
+50_sigmoid_chebyshev: k = 5, acc = 0.782973
+50_sigmoid_chebyshev: k = 6, acc = 0.785183
+50_sigmoid_chebyshev: k = 7, acc = 0.788934
+50_sigmoid_chebyshev: k = 8, acc = 0.788599
+50_sigmoid_chebyshev: k = 10, acc = 0.788398
+50_sigmoid_chebyshev: k = 11, acc = 0.788666
+50_sigmoid_chebyshev: k = 12, acc = 0.787662
+50_sigmoid_chebyshev: k = 13, acc = 0.787662
+50_sigmoid_chebyshev: k = 14, acc = 0.786657
+50_sigmoid_chebyshev: k = 15, acc = 0.785183
+50_sigmoid_chebyshev: k = 16, acc = 0.782437
+50_sigmoid_chebyshev: k = 50, acc = 0.758055
+50_sigmoid_chebyshev: k = 100, acc = 0.729654
+50_sigmoid_chebyshev: k = 200, acc = 0.689530
+50_sigmoid_chebyshev: k = 500, acc = 0.621341
+50_sigmoid_chebyshev: k = 1000, acc = 0.551879
+50_sigmoid_chebyshev: Best k = 7
+50_sigmoid_chebyshev: Best acc = 0.788934

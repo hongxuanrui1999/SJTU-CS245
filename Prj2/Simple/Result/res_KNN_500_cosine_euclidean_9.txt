@@ -1,0 +1,3 @@
+500_cosine_euclidean_9: k = 9, acc = 0.580615
+500_cosine_euclidean_9: Best k = 9
+500_cosine_euclidean_9: Best acc = 0.580615

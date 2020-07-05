@@ -1,0 +1,3 @@
+Art->RealWorld with acc=0.738123
+Clipart->RealWorld with acc=0.651366
+Product->RealWorld with acc=0.736975

@@ -1,0 +1,3 @@
+500_rbf_manhattan_9: k = 9, acc = 0.527564
+500_rbf_manhattan_9: Best k = 9
+500_rbf_manhattan_9: Best acc = 0.527564

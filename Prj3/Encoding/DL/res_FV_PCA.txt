@@ -1,0 +1,8 @@
+FV with k=4, Z-score, SVM with linear kernel, C=0.001000, score=0.314690
+FV with k=4, Z-score, SVM with rbf kernel, C=5.000000, score=0.154799
+FV with k=4, Z-score, SVM with linear kernel, C=0.005000, score=0.344028
+FV with k=4, Z-score, SVM with rbf kernel, C=10.000000, score=0.151852
+FV with k=2, Z-score, SVM with linear kernel, C=0.001000, score=0.463795
+FV with k=2, Z-score, SVM with rbf kernel, C=5.000000, score=0.053118
+FV with k=2, Z-score, SVM with linear kernel, C=0.005000, score=0.467479
+FV with k=2, Z-score, SVM with rbf kernel, C=10.000000, score=0.053118

@@ -1,0 +1,21 @@
+500_sigmoid_euclidean: k = 2, acc = 0.450131
+500_sigmoid_euclidean: k = 3, acc = 0.396812
+500_sigmoid_euclidean: k = 4, acc = 0.385558
+500_sigmoid_euclidean: k = 5, acc = 0.353674
+500_sigmoid_euclidean: k = 6, acc = 0.339875
+500_sigmoid_euclidean: k = 7, acc = 0.319043
+500_sigmoid_euclidean: k = 8, acc = 0.308326
+500_sigmoid_euclidean: k = 10, acc = 0.279657
+500_sigmoid_euclidean: k = 11, acc = 0.267667
+500_sigmoid_euclidean: k = 12, acc = 0.258959
+500_sigmoid_euclidean: k = 13, acc = 0.247237
+500_sigmoid_euclidean: k = 14, acc = 0.240338
+500_sigmoid_euclidean: k = 15, acc = 0.232099
+500_sigmoid_euclidean: k = 16, acc = 0.224262
+500_sigmoid_euclidean: k = 50, acc = 0.118628
+500_sigmoid_euclidean: k = 100, acc = 0.078974
+500_sigmoid_euclidean: k = 200, acc = 0.060821
+500_sigmoid_euclidean: k = 500, acc = 0.048630
+500_sigmoid_euclidean: k = 1000, acc = 0.034564
+500_sigmoid_euclidean: Best k = 2
+500_sigmoid_euclidean: Best acc = 0.450131

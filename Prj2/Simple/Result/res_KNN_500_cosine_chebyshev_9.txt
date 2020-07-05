@@ -1,0 +1,3 @@
+500_cosine_chebyshev_9: k = 9, acc = 0.365195
+500_cosine_chebyshev_9: Best k = 9
+500_cosine_chebyshev_9: Best acc = 0.365195

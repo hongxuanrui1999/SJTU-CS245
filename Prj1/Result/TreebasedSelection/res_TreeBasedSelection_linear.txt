@@ -1,0 +1,9 @@
+linear: n_comp = 2.000000, acc = 0.926184, dimension = 523
+linear: n_comp = 4.000000, acc = 0.926318, dimension = 564
+linear: n_comp = 8.000000, acc = 0.924710, dimension = 563
+linear: n_comp = 16.000000, acc = 0.925916, dimension = 609
+linear: n_comp = 32.000000, acc = 0.925849, dimension = 609
+linear: n_comp = 64.000000, acc = 0.925983, dimension = 600
+linear: Best n_comp = 4.000000
+linear: acc = 0.926318
+linear: dimension = 564.000000

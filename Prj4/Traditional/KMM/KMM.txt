@@ -1,0 +1,6 @@
+Art->RealWorld, kernel=linear, with acc=0.752812
+Art->RealWorld, kernel=rbf, with acc=0.752812
+Clipart->RealWorld, kernel=linear, with acc=0.651825
+Clipart->RealWorld, kernel=rbf, with acc=0.651366
+Product->RealWorld, kernel=linear, with acc=0.729630
+Product->RealWorld, kernel=rbf, with acc=0.729401

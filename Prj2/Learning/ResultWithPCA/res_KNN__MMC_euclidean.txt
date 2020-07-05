@@ -1,0 +1,17 @@
+_MMC_euclidean: k = 2, acc = 0.837364
+_MMC_euclidean: k = 3, acc = 0.864894
+_MMC_euclidean: k = 4, acc = 0.863554
+_MMC_euclidean: k = 5, acc = 0.870253
+_MMC_euclidean: k = 6, acc = 0.867908
+_MMC_euclidean: k = 7, acc = 0.872262
+_MMC_euclidean: k = 8, acc = 0.870186
+_MMC_euclidean: k = 9, acc = 0.872396
+_MMC_euclidean: k = 10, acc = 0.871257
+_MMC_euclidean: k = 11, acc = 0.870989
+_MMC_euclidean: k = 12, acc = 0.870520
+_MMC_euclidean: k = 13, acc = 0.869516
+_MMC_euclidean: k = 14, acc = 0.870253
+_MMC_euclidean: k = 15, acc = 0.869918
+_MMC_euclidean: k = 16, acc = 0.869784
+_MMC_euclidean: Best k = 9
+_MMC_euclidean: Best acc = 0.872396

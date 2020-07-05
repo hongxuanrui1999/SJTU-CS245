@@ -1,0 +1,6 @@
+linear: C = 0.000500, acc = 0.927790
+linear: C = 0.001000, acc = 0.930023
+linear: C = 0.002000, acc = 0.931050
+linear: C = 0.005000, acc = 0.930514
+linear: Best C = 0.002000
+linear: acc = 0.932815

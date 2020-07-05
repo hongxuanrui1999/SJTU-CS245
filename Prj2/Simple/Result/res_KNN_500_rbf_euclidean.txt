@@ -1,0 +1,21 @@
+500_rbf_euclidean: k = 2, acc = 0.601514
+500_rbf_euclidean: k = 3, acc = 0.602385
+500_rbf_euclidean: k = 4, acc = 0.586041
+500_rbf_euclidean: k = 5, acc = 0.572309
+500_rbf_euclidean: k = 6, acc = 0.556903
+500_rbf_euclidean: k = 7, acc = 0.544846
+500_rbf_euclidean: k = 8, acc = 0.527631
+500_rbf_euclidean: k = 10, acc = 0.498828
+500_rbf_euclidean: k = 11, acc = 0.483087
+500_rbf_euclidean: k = 12, acc = 0.472637
+500_rbf_euclidean: k = 13, acc = 0.460647
+500_rbf_euclidean: k = 14, acc = 0.447853
+500_rbf_euclidean: k = 15, acc = 0.438074
+500_rbf_euclidean: k = 16, acc = 0.428026
+500_rbf_euclidean: k = 50, acc = 0.214214
+500_rbf_euclidean: k = 100, acc = 0.097662
+500_rbf_euclidean: k = 200, acc = 0.034095
+500_rbf_euclidean: k = 500, acc = 0.020966
+500_rbf_euclidean: k = 1000, acc = 0.020966
+500_rbf_euclidean: Best k = 3
+500_rbf_euclidean: Best acc = 0.602385

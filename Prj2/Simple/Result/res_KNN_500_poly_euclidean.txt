@@ -1,0 +1,21 @@
+500_poly_euclidean: k = 2, acc = 0.839038
+500_poly_euclidean: k = 3, acc = 0.859669
+500_poly_euclidean: k = 4, acc = 0.863018
+500_poly_euclidean: k = 5, acc = 0.866100
+500_poly_euclidean: k = 6, acc = 0.866970
+500_poly_euclidean: k = 7, acc = 0.869248
+500_poly_euclidean: k = 8, acc = 0.868176
+500_poly_euclidean: k = 10, acc = 0.866903
+500_poly_euclidean: k = 11, acc = 0.868042
+500_poly_euclidean: k = 12, acc = 0.865698
+500_poly_euclidean: k = 13, acc = 0.864961
+500_poly_euclidean: k = 14, acc = 0.863286
+500_poly_euclidean: k = 15, acc = 0.862951
+500_poly_euclidean: k = 16, acc = 0.863688
+500_poly_euclidean: k = 50, acc = 0.828388
+500_poly_euclidean: k = 100, acc = 0.782370
+500_poly_euclidean: k = 200, acc = 0.706075
+500_poly_euclidean: k = 500, acc = 0.531784
+500_poly_euclidean: k = 1000, acc = 0.342756
+500_poly_euclidean: Best k = 7
+500_poly_euclidean: Best acc = 0.869248

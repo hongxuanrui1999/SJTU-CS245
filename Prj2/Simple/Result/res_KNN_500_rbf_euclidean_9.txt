@@ -1,0 +1,3 @@
+500_rbf_euclidean_9: k = 9, acc = 0.513028
+500_rbf_euclidean_9: Best k = 9
+500_rbf_euclidean_9: Best acc = 0.513028

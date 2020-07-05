@@ -1,0 +1,21 @@
+2048_chebyshev: k = 2, acc = 0.634537
+2048_chebyshev: k = 3, acc = 0.666421
+2048_chebyshev: k = 4, acc = 0.677741
+2048_chebyshev: k = 5, acc = 0.684440
+2048_chebyshev: k = 6, acc = 0.689530
+2048_chebyshev: k = 7, acc = 0.690736
+2048_chebyshev: k = 8, acc = 0.693683
+2048_chebyshev: k = 10, acc = 0.693215
+2048_chebyshev: k = 11, acc = 0.693683
+2048_chebyshev: k = 12, acc = 0.693817
+2048_chebyshev: k = 13, acc = 0.694353
+2048_chebyshev: k = 14, acc = 0.692478
+2048_chebyshev: k = 15, acc = 0.693148
+2048_chebyshev: k = 16, acc = 0.691607
+2048_chebyshev: k = 50, acc = 0.659924
+2048_chebyshev: k = 100, acc = 0.626097
+2048_chebyshev: k = 200, acc = 0.585036
+2048_chebyshev: k = 500, acc = 0.512760
+2048_chebyshev: k = 1000, acc = 0.442093
+2048_chebyshev: Best k = 13
+2048_chebyshev: Best acc = 0.694353

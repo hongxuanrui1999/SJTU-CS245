@@ -1,0 +1,16 @@
+__pycache__
+AwA2-data
+LD_for_clustering.npy
+ResNet/model_res152.pkl
+Report/Report.aux
+Report/Report.log
+Report/Report.out
+Report/Report.synctex.gz
+Report/Report.bbl
+Report/Report.blg
+Report/Report.tex
+Report/Report.fdb_latexmk
+Report/Report.fls
+Report/IEEEtran.bst
+Report/IEEEtran.cls
+Report/Prj3.bib

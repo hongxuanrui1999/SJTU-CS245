@@ -1,0 +1,21 @@
+500_cosine_euclidean: k = 2, acc = 0.695559
+500_cosine_euclidean: k = 3, acc = 0.670641
+500_cosine_euclidean: k = 4, acc = 0.664077
+500_cosine_euclidean: k = 5, acc = 0.639159
+500_cosine_euclidean: k = 6, acc = 0.630987
+500_cosine_euclidean: k = 7, acc = 0.608078
+500_cosine_euclidean: k = 8, acc = 0.599169
+500_cosine_euclidean: k = 10, acc = 0.570768
+500_cosine_euclidean: k = 11, acc = 0.557907
+500_cosine_euclidean: k = 12, acc = 0.547525
+500_cosine_euclidean: k = 13, acc = 0.535535
+500_cosine_euclidean: k = 14, acc = 0.526291
+500_cosine_euclidean: k = 15, acc = 0.515373
+500_cosine_euclidean: k = 16, acc = 0.507670
+500_cosine_euclidean: k = 50, acc = 0.320852
+500_cosine_euclidean: k = 100, acc = 0.207449
+500_cosine_euclidean: k = 200, acc = 0.103490
+500_cosine_euclidean: k = 500, acc = 0.053386
+500_cosine_euclidean: k = 1000, acc = 0.030612
+500_cosine_euclidean: Best k = 2
+500_cosine_euclidean: Best acc = 0.695559

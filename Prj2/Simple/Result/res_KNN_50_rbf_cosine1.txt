@@ -1,0 +1,13 @@
+50_rbf_cosine1: k = 2, acc = 0.845937
+50_rbf_cosine1: k = 3, acc = 0.869114
+50_rbf_cosine1: k = 4, acc = 0.869248
+50_rbf_cosine1: k = 5, acc = 0.874473
+50_rbf_cosine1: k = 6, acc = 0.874874
+50_rbf_cosine1: k = 7, acc = 0.879161
+50_rbf_cosine1: k = 8, acc = 0.875611
+50_rbf_cosine1: k = 9, acc = 0.877621
+50_rbf_cosine1: k = 10, acc = 0.876951
+50_rbf_cosine1: k = 11, acc = 0.877688
+50_rbf_cosine1: k = 12, acc = 0.877286
+50_rbf_cosine1: Best k = 7
+50_rbf_cosine1: Best acc = 0.879161

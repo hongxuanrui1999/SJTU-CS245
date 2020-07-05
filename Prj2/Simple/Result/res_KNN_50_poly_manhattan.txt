@@ -1,0 +1,21 @@
+50_poly_manhattan: k = 2, acc = 0.840177
+50_poly_manhattan: k = 3, acc = 0.863487
+50_poly_manhattan: k = 4, acc = 0.864693
+50_poly_manhattan: k = 5, acc = 0.871860
+50_poly_manhattan: k = 6, acc = 0.870587
+50_poly_manhattan: k = 7, acc = 0.872731
+50_poly_manhattan: k = 8, acc = 0.872463
+50_poly_manhattan: k = 10, acc = 0.873602
+50_poly_manhattan: k = 11, acc = 0.874205
+50_poly_manhattan: k = 12, acc = 0.872999
+50_poly_manhattan: k = 13, acc = 0.874339
+50_poly_manhattan: k = 14, acc = 0.873535
+50_poly_manhattan: k = 15, acc = 0.873736
+50_poly_manhattan: k = 16, acc = 0.872664
+50_poly_manhattan: k = 50, acc = 0.856923
+50_poly_manhattan: k = 100, acc = 0.840378
+50_poly_manhattan: k = 200, acc = 0.814388
+50_poly_manhattan: k = 500, acc = 0.768169
+50_poly_manhattan: k = 1000, acc = 0.715922
+50_poly_manhattan: Best k = 13
+50_poly_manhattan: Best acc = 0.874339

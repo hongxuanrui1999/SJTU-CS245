@@ -1,0 +1,21 @@
+50_rbf_manhattan: k = 2, acc = 0.828924
+50_rbf_manhattan: k = 3, acc = 0.857124
+50_rbf_manhattan: k = 4, acc = 0.859468
+50_rbf_manhattan: k = 5, acc = 0.864894
+50_rbf_manhattan: k = 6, acc = 0.865296
+50_rbf_manhattan: k = 7, acc = 0.867506
+50_rbf_manhattan: k = 8, acc = 0.866970
+50_rbf_manhattan: k = 10, acc = 0.867305
+50_rbf_manhattan: k = 11, acc = 0.867774
+50_rbf_manhattan: k = 12, acc = 0.866367
+50_rbf_manhattan: k = 13, acc = 0.866769
+50_rbf_manhattan: k = 14, acc = 0.866434
+50_rbf_manhattan: k = 15, acc = 0.865497
+50_rbf_manhattan: k = 16, acc = 0.866300
+50_rbf_manhattan: k = 50, acc = 0.845736
+50_rbf_manhattan: k = 100, acc = 0.831804
+50_rbf_manhattan: k = 200, acc = 0.804943
+50_rbf_manhattan: k = 500, acc = 0.756581
+50_rbf_manhattan: k = 1000, acc = 0.702257
+50_rbf_manhattan: Best k = 11
+50_rbf_manhattan: Best acc = 0.867774

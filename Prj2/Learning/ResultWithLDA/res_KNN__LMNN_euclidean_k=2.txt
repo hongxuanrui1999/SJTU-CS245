@@ -1,0 +1,17 @@
+_LMNN_euclidean_k=2: k = 2, acc = 0.883716
+_LMNN_euclidean_k=2: k = 3, acc = 0.898453
+_LMNN_euclidean_k=2: k = 4, acc = 0.897917
+_LMNN_euclidean_k=2: k = 5, acc = 0.903744
+_LMNN_euclidean_k=2: k = 6, acc = 0.900797
+_LMNN_euclidean_k=2: k = 7, acc = 0.904682
+_LMNN_euclidean_k=2: k = 8, acc = 0.905352
+_LMNN_euclidean_k=2: k = 9, acc = 0.906156
+_LMNN_euclidean_k=2: k = 10, acc = 0.905620
+_LMNN_euclidean_k=2: k = 11, acc = 0.907763
+_LMNN_euclidean_k=2: k = 12, acc = 0.906424
+_LMNN_euclidean_k=2: k = 13, acc = 0.907763
+_LMNN_euclidean_k=2: k = 14, acc = 0.907228
+_LMNN_euclidean_k=2: k = 15, acc = 0.907161
+_LMNN_euclidean_k=2: k = 16, acc = 0.907161
+_LMNN_euclidean_k=2: Best k = 11
+_LMNN_euclidean_k=2: Best acc = 0.907763

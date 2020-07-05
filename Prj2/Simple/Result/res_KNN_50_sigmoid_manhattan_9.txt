@@ -1,0 +1,3 @@
+50_sigmoid_manhattan_9: k = 9, acc = 0.857057
+50_sigmoid_manhattan_9: Best k = 9
+50_sigmoid_manhattan_9: Best acc = 0.857057

@@ -1,0 +1,3 @@
+Art->RealWorld with acc=75.625427
+Clipart->RealWorld with acc=67.684189
+Product->RealWorld with acc=75.143448

@@ -1,0 +1,21 @@
+50_linear_manhattan: k = 2, acc = 0.835756
+50_linear_manhattan: k = 3, acc = 0.859066
+50_linear_manhattan: k = 4, acc = 0.864157
+50_linear_manhattan: k = 5, acc = 0.870253
+50_linear_manhattan: k = 6, acc = 0.867975
+50_linear_manhattan: k = 7, acc = 0.870186
+50_linear_manhattan: k = 8, acc = 0.868779
+50_linear_manhattan: k = 10, acc = 0.871592
+50_linear_manhattan: k = 11, acc = 0.871257
+50_linear_manhattan: k = 12, acc = 0.870320
+50_linear_manhattan: k = 13, acc = 0.870320
+50_linear_manhattan: k = 14, acc = 0.869248
+50_linear_manhattan: k = 15, acc = 0.869382
+50_linear_manhattan: k = 16, acc = 0.868310
+50_linear_manhattan: k = 50, acc = 0.848684
+50_linear_manhattan: k = 100, acc = 0.830598
+50_linear_manhattan: k = 200, acc = 0.804809
+50_linear_manhattan: k = 500, acc = 0.755108
+50_linear_manhattan: k = 1000, acc = 0.701788
+50_linear_manhattan: Best k = 10
+50_linear_manhattan: Best acc = 0.871592

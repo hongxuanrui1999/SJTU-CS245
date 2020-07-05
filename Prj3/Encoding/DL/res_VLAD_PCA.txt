@@ -1,0 +1,8 @@
+VLAD with k=4, Z-score, SVM with linear kernel, C=0.001000, score=0.480541
+VLAD with k=4, Z-score, SVM with rbf kernel, C=5.000000, score=0.071941
+VLAD with k=4, Z-score, SVM with linear kernel, C=0.005000, score=0.486436
+VLAD with k=4, Z-score, SVM with rbf kernel, C=10.000000, score=0.072008
+VLAD with k=8, Z-score, SVM with linear kernel, C=0.001000, score=0.428160
+VLAD with k=8, Z-score, SVM with rbf kernel, C=5.000000, score=0.110657
+VLAD with k=8, Z-score, SVM with linear kernel, C=0.005000, score=0.441155
+VLAD with k=8, Z-score, SVM with rbf kernel, C=10.000000, score=0.109786

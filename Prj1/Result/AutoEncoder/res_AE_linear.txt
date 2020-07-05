@@ -1,0 +1,8 @@
+linear: n_comp = 2.000000, acc = 0.237122
+linear: n_comp = 64.000000, acc = 0.695224
+linear: n_comp = 128.000000, acc = 0.720075
+linear: n_comp = 256.000000, acc = 0.783509
+linear: n_comp = 512.000000, acc = 0.875879
+linear: n_comp = 1024.000000, acc = 0.914194
+linear: Best n_comp = 1024.000000
+linear: acc = 0.914194

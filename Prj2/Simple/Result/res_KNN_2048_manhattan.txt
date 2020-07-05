@@ -1,0 +1,21 @@
+2048_manhattan: k = 2, acc = 0.847478
+2048_manhattan: k = 3, acc = 0.866234
+2048_manhattan: k = 4, acc = 0.865095
+2048_manhattan: k = 5, acc = 0.865229
+2048_manhattan: k = 6, acc = 0.864023
+2048_manhattan: k = 7, acc = 0.866033
+2048_manhattan: k = 8, acc = 0.863755
+2048_manhattan: k = 10, acc = 0.863621
+2048_manhattan: k = 11, acc = 0.862817
+2048_manhattan: k = 12, acc = 0.861545
+2048_manhattan: k = 13, acc = 0.859736
+2048_manhattan: k = 14, acc = 0.858731
+2048_manhattan: k = 15, acc = 0.857861
+2048_manhattan: k = 16, acc = 0.855449
+2048_manhattan: k = 50, acc = 0.824436
+2048_manhattan: k = 100, acc = 0.793623
+2048_manhattan: k = 200, acc = 0.742983
+2048_manhattan: k = 500, acc = 0.649340
+2048_manhattan: k = 1000, acc = 0.549534
+2048_manhattan: Best k = 3
+2048_manhattan: Best acc = 0.866234

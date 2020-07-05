@@ -1,0 +1,21 @@
+500_cosine_manhattan: k = 2, acc = 0.697635
+500_cosine_manhattan: k = 3, acc = 0.677540
+500_cosine_manhattan: k = 4, acc = 0.670373
+500_cosine_manhattan: k = 5, acc = 0.646192
+500_cosine_manhattan: k = 6, acc = 0.635408
+500_cosine_manhattan: k = 7, acc = 0.615513
+500_cosine_manhattan: k = 8, acc = 0.604796
+500_cosine_manhattan: k = 10, acc = 0.582490
+500_cosine_manhattan: k = 11, acc = 0.568893
+500_cosine_manhattan: k = 12, acc = 0.561792
+500_cosine_manhattan: k = 13, acc = 0.545850
+500_cosine_manhattan: k = 14, acc = 0.541095
+500_cosine_manhattan: k = 15, acc = 0.528903
+500_cosine_manhattan: k = 16, acc = 0.522406
+500_cosine_manhattan: k = 50, acc = 0.343158
+500_cosine_manhattan: k = 100, acc = 0.225467
+500_cosine_manhattan: k = 200, acc = 0.120705
+500_cosine_manhattan: k = 500, acc = 0.057606
+500_cosine_manhattan: k = 1000, acc = 0.031415
+500_cosine_manhattan: Best k = 2
+500_cosine_manhattan: Best acc = 0.697635
